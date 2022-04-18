@@ -1,3 +1,3 @@
 # DevOps repo
 
-Name Surname DevOps repository
+@aarnijs DevOps repository
