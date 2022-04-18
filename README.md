@@ -1,3 +1,3 @@
-# Dev
+# DevOps repo
 
-DevOps project
+Name Surname DevOps repository
